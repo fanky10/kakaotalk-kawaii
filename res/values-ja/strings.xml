@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="theme_title">秘密の森</string>
+    <string name="app_name">秘密の森</string>
+    <string name="apply">設定</string>
+    <string name="cancel">キャンセル</string>
+    <string name="install_kakaotalk">カカオトークインストール</string>
+    <string name="update_kakaotalk">カカオトークアップデート</string>
+    <string name="ask_for_apply_theme">インストールしたテーマを今すぐ設定しますか？</string>
+    <string name="label_for_install_kakaotalk_first">このテーマを利用するにはカカオトークをインストールする必要があります。</string>
+    <string name="label_for_update_kakaotalk">このテーマは、カカオトークをアップデートするとご利用いただけます。</string>
+    
+</resources>

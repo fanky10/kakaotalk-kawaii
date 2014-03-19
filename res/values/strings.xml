@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="theme_title">Kakao Friends - Forest of Secrets</string>
+    <string name="app_name">Kakao Friends - Forest of Secrets</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="install_kakaotalk">Install KakaoTalk</string>
+    <string name="update_kakaotalk">Go to Update</string>
+    <string name="ask_for_apply_theme">Do you want to apply this theme now?</string>
+    <string name="label_for_install_kakaotalk_first">Please install KakaoTalk first in order to apply this theme.</string>
+    <string name="label_for_update_kakaotalk">You have to update to the latest version to apply this theme.</string>
+    
+</resources>
